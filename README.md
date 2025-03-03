@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am currently studying computer science
+I'am currently studying in a computer science branch
 
 
 ## 🌐 Socials:
